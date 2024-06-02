@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any open source project**
 
-- 🤝 I’m looking for help with **TeenCodeHub (need backend devs)**
+- 🤝 I’m looking for help with **TeenCodeHub (need frontend devs)**
 
 - 📫 How to reach me **Email: mohittiwariis97@gmail.com @MohitTiwariDev on Slack**
 
