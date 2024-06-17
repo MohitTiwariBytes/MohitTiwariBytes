@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **TeenCodeHub (need frontend devs)**
 
-- 📫 How to reach me **Email: mohittiwariis97@gmail.com @MohitTiwariDev on <a href="hackclub.com">Hackclub</a> Slack**
+- 📫 How to reach me **Email: mohittiwariis97@gmail.com @MohitTiwariDev on <a href="https://hackclub.com">Hackclub</a> Slack**
 
 - ⚡ Fun fact **I don't know how to make processor**
 
