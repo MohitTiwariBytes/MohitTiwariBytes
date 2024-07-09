@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TeenCodeHub](https://teencodehub.netlify.app)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **any open source project**
 
