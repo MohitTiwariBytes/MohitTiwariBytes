@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
+# Hello World!, I'm Mohit, A Front-end Developer from India! 👋🏼:
 🛜 Currently working on Coca-Cola's [3D Concept Website](https://coke3d.netlify.app)<br>👨🏼‍🎓 Studying in 7th grade at Shri Krishna Inter College<br>👨🏼‍💻 Trying to be a Front-End developer since 2021
 
 
