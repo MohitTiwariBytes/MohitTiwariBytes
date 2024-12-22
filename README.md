@@ -1,4 +1,4 @@
-<div style="width: 100%; height: 300px; overflow: hidden;">
+<div style="width: 100%; height: 300px; overflow: hidden; position: relative;">
   <img style="object-fit: cover; width: 100%; height: 100%;" src="banner_github.png" alt="GitHub Banner" />
 </div>
 
