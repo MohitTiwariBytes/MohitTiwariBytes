@@ -1,4 +1,7 @@
-<img style="object-fit: cover; height: 300px; width: 100%;" src="banner_github.png" alt="GitHub Banner" />
+<div style="width: 100%; height: 300px; overflow: hidden;">
+  <img style="object-fit: cover; width: 100%; height: 100%;" src="banner_github.png" alt="GitHub Banner" />
+</div>
+
 
 # Hello World!, I'm Mohit, A Front-end Developer from India! 👋🏼:
 🛜 Currently working on Coca-Cola's [3D Concept Website](https://coke3d.netlify.app)<br>👨🏼‍🎓 Studying in 7th grade at Shri Krishna Inter College<br>👨🏼‍💻 Trying to be a Front-End developer since 2021
