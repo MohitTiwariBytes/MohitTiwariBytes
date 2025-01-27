@@ -4,7 +4,7 @@
 
 
 # Hello World!, I'm Mohit, A Front-end Developer from India! 👋🏼:
-🛜 Currently working with New India Software Solutions and building [@UsingLunar](https://github.com/UsingLunar)<br>👨🏼‍🎓 Studying in 7th grade at Shri Krishna Inter College<br>👨🏼‍💻 Trying to be a Front-End developer since 2021
+🛜 Currently working with New India Software Solutions, and building [@UsingLunar](https://github.com/UsingLunar)<br>👨🏼‍🎓 Studying in 7th grade at Shri Krishna Inter College<br>👨🏼‍💻 Trying to be a Front-End developer since 2021
 
 
 # 💻 Tech Stack:
