@@ -11,7 +11,7 @@
 <div style="width: 100%; display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2499&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"/>
   <hr/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitTiwariBytes&theme=dracula&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohitTiwariBytes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
 </div>
 
 
