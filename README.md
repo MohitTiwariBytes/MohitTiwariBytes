@@ -4,7 +4,7 @@
 
 
 # Hello World!, I'm Mohit, A Front-end Developer from India! 👋🏼:
-🛜 Currently building [@CraftedByLunar](https://github.com/CraftedByLunar)<br>👨🏼‍🎓 Studying in 8th grade at Shri Krishna Inter College<br>👨🏼‍💻 Trying to be a Front-End developer since 2021
+🛜 Currently building [@CraftedByLunar](https://github.com/CraftedByLunar)<br>👨🏼‍🎓 Studying in 8th grade at Shri Krishna Inter College<br>👨🏼‍💻 Creative Web Developer @ SHVDOW
 
 ---
 
