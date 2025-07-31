@@ -3,7 +3,7 @@
 </div>
 
 
-# Hello World!, I'm Mohit, A Front-end Developer from India! 👋🏼:
+# Hello World!, I'm Mohit, A Creative WEb Developer from India! 👋🏼:
 🛜 Currently building [@CraftedByLunar](https://github.com/CraftedByLunar)<br>👨🏼‍🎓 Studying in 8th grade at Shri Krishna Inter College<br>👨🏼‍💻 Creative Web Developer @ SHVDOW
 
 ---
