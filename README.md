@@ -4,7 +4,7 @@
 
 
 # Hello World!, I'm Mohit, A Creative Web Developer from India! 👋🏼:
-🛜 Currently building [@CraftedByLunar](https://github.com/CraftedByLunar)<br>👨🏼‍🎓 Studying in 9th grade at Shri Krishna Inter College <br>Portfolio: https://codedbymohit.xyz <br>👨🏼‍💻 Creative Web Developer @ SHVDOW
+🛜 Currently building [@CraftedByLunar](https://github.com/CraftedByLunar)<br>👨🏼‍🎓 Studying in 9th grade at Shri Krishna Inter College <br>💼 Portfolio: https://codedbymohit.xyz <br>👨🏼‍💻 Creative Web Developer @ SHVDOW
 
 ---
 
